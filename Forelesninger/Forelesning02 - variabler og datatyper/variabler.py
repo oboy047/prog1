@@ -1,0 +1,12 @@
+# Opprette og bruke variabler
+
+course_name = "Programmering 3"     # Oppretter en variabel med navnet course_name. Innholdet settes til "Programmering 3"
+print(course_name)                  # Skriver ut innholdet i variabelen til konsollen
+
+print("course_name")                # Her brukes ikke variabelen
+
+course_name = "Programmering 1"     # Endrer/oppdaterer/overskriver innholdet i variabelen
+print(course_name)                  # Bruker variabelen, med det nye innholdet
+
+variabel = None                     # Definerer en tom variabel
+print(variabel)
