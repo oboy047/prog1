@@ -1,6 +1,6 @@
 # Opprette og bruke variabler
 
-course_name = "Programmering 3"     # Oppretter en variabel med navnet course_name. Innholdet settes til "Programmering 3"
+course_name = "Programmering 3"     # Oppretter en variabel med navnet course_name. Innholdet settes til "Programmering 3". Innholdet er av datatypen string, som kjennetegnes av "" rundt innholdet.
 print(course_name)                  # Skriver ut innholdet i variabelen til konsollen
 
 print("course_name")                # Her brukes ikke variabelen
